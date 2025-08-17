@@ -32,14 +32,16 @@ label → 1 = Fake, 0 = Real
 
 Clone the repository:
 
-git clone https://github.com/CyrilNishanth/fake-news-detector.git
+git clone https://github.com/your-username/fake-news-detector.git
 cd fake-news-detector
 
 
 (Optional) Create a virtual environment:
 
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
+
 venv\Scripts\activate      # Windows
 
 
